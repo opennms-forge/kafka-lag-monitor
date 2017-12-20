@@ -10,6 +10,8 @@ mvn install
 sample command:
 ```
 java -jar target/kafka-lag-monitor
+
+optional arg: --kafkaHost <hostName>, default is localhost:9092
 ```
 
 #### Rest API :
